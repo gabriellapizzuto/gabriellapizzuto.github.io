@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gabriella Pizzuto"
   avatar           : "0.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PDRA at the University of Edinburgh, former Marie Sklodowska Curie Early Stage Researcher at the University of Manchester"
   location         : "Edinburgh, UK"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : gpizzuto@exseed.ed.ac.uk
   researchgate     : "https://www.researchgate.net/profile/Gabriella_Pizzuto"
   uri              :
   bitbucket        :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ""
+  github           : "https://github.com/gabriellapizzuto"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/gabriella-pizzuto-2847bb61/"
   orcid            : ""
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "gabriellapizz19"
