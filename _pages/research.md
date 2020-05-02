@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-<img align="left" width="100" height="100" src="images/ijcnn2019.jpg" alt="alternate text">
-
 Learning Inverse Dynamics Models
 ======
 * Data-driven approaches (Neural Networks, Gaussian Processes)
