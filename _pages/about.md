@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gabriella Pizzuto Ph.D."
+title: "Gabriella Pizzuto"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
