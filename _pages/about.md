@@ -17,6 +17,11 @@ Prior to joining the [Institute of Perception, Action and Behaviour](http://web.
 I have previously obtained my [MSc in Computational Neuroscience and Cognitive Robotics](https://www.birmingham.ac.uk/research/activity/cncr/index.aspx) at the [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), where I worked mostly on model learning and control applied to robotic manipulators, and graduated as an electrical engineer from the [University of Malta](https://www.um.edu.mt/), specialising in control and electronics.
 
 
+Most Recent News
+======
 
+(12/2019) I have joined [Michael Mistry](https://www.edinburgh-robotics.org/academics/michael-mistry) at the University of Edinburgh as a Postdoctoral Research Associate.
+
+(11/2019) I have submitted my Ph.D. thesis at the [University of Manchester](https://www.cs.manchester.ac.uk/).
 
 
