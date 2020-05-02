@@ -1,9 +1,6 @@
 ---
 permalink: /
 title: "Outreach Activities"
-excerpt: "About me"
+excerpt: "Outreach"
 author_profile: true
-redirect_from: 
-  - /outreach/
-  - /outreach.html
 ---
