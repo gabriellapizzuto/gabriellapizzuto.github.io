@@ -19,7 +19,6 @@ I have previously obtained my [MSc in Computational Neuroscience and Cognitive R
 
 Most Recent News
 ======
-(2/2020) I have successfully defended my Ph.D. :)
 
 (12/2019) I have joined [Michael Mistry](https://www.edinburgh-robotics.org/academics/michael-mistry) at the University of Edinburgh as a Postdoctoral Research Associate.
 
