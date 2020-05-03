@@ -23,4 +23,4 @@ Weakly Supervised Learning for Robotics
 Application of Machine Learning to Gastronomy
 ======
 
-![](/images/ijcnn2019.jpg)
+![](/images/ijcnn2019.jpg){:height="400px" width="250px"}
