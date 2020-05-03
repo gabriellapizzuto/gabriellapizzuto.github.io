@@ -10,7 +10,7 @@ redirect_from:
 
 My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and lifelong learning. I am broadly interested in the following topics: statistical learning for dynamical and control systems, physics-constrained learning, bridging model-based and learning-based dynamical and control systems and system identification. Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
-<br/><img src='/images/500x300.png'>
+<img src='/images/500x300.png'>
 
 Currently, I am a postdoctoral research associate in the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk/). I am working on the EPSRC funded project [NCNR](https://www.ncnr.org.uk/).
 
