@@ -23,7 +23,3 @@ Weakly Supervised Learning for Robotics
 Application of Machine Learning to Gastronomy
 ======
 
-
-<img src="images/500x300.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
