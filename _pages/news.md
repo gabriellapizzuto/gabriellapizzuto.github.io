@@ -18,12 +18,13 @@ author_profile: true
 2018
 ------
 
-|My first DCOMM secondment will be at the University of Edinburgh, working under Timothy Hospedales' supervision.|![](/images/edinplacement.jpg){:height="200px" width="400px"}|
+|My first DCOMM secondment will be at the University of Edinburgh, working under Timothy Hospedales' supervision.|![](/images/edinplacement.jpg){:height="400px" width="200px"}|
 
 |Officially transferred to the University of Manchester, where I will be working as part of the newly formed [Cognitive Robotics Lab ](http://corolab.github.io)|![](/images/uom.jpg){:height="400px" width="200px"}|
 
 2017
 ------
+
 |DCOMM has officially passed the EU commission's mid-term review.|![](/images/dcommmidterm.jpg){:height="400px" width="200px"}|
 
 |At the UK robotics week organised at the University of Plymouth.|![](/images/ukroboticsweek.jpg){:height="400px" width="200px"} |
@@ -32,6 +33,7 @@ author_profile: true
 
 2016
 ------
+
 |First kick-off DCOMM meeting in UIB, Mallorca. Looking forward to 3 fruitful years.|![](/images/dcommkickoff.jpeg){:height="400px" width="200px"}|
 
 
