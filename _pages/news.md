@@ -19,7 +19,7 @@ author_profile: true
 
 2017
 ------
-|DCOMM has officially passed the EU commission's mid-term review!|![](/images/dcommmidterm.jpg){:height="400px" width="200px"}|
+|DCOMM has officially passed the EU commission's mid-term review.|![](/images/dcommmidterm.jpg){:height="400px" width="200px"}|
 
 |At the UK robotics week organised at the University of Plymouth.|![](/images/ukroboticsweek.jpg){:height="400px" width="200px"} |
 
@@ -27,6 +27,6 @@ author_profile: true
 
 2016
 ------
-|First kick-off DCOMM meeting in UIB, Mallorca. Looking forward to 3 fruitful years!|![](/images/dcommkickoff.jpeg){:height="400px" width="200px"}|
+|First kick-off DCOMM meeting in UIB, Mallorca. Looking forward to 3 fruitful years.|![](/images/dcommkickoff.jpeg){:height="400px" width="200px"}|
 
 
