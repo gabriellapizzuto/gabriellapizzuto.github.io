@@ -20,9 +20,9 @@ author_profile: true
 
 |Officially submitted my Ph.D. thesis. Three years of working on deep learning methods to improve the iCub humanoid robot. |![](/images/gabicub.jpg){:height="400px" width="200px"}|
 
-|Presented our work on "Modelling the Single to Multi Word Transition Using Matrix Completion" at [IEEE ICDL-EPIROB](https://icdl-epirob2019.org/) 2019.|![](/images/icdl019.jpg){:height="400px" width="200px"}|
+|Presented our work on "Modelling the Single to Multi Word Transition Using Matrix Completion" at [IEEE ICDL-EPIROB](https://icdl-epirob2019.org/) 2019.|![](/images/icdl2019.jpg){:height="400px" width="200px"}|
 
-|Presented our work on "Modelling the Single to Multi Word Transition Using Matrix Completion" at [IEEE ICDL-EPIROB](https://icdl-epirob2019.org/) 2019.|![](/images/icdl019.jpg){:height="400px" width="200px"}|
+
 
 |Presented our work on "Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics" at [IJCNN](https://www.ijcnn.org/) 2019.|![](/images/ijcnn2019.jpg){:height="400px" width="200px"}|
 
