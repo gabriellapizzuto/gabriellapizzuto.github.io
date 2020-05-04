@@ -11,7 +11,7 @@ author_profile: true
 2020
 ------
 
-|Successfully defended my Ph.D. thesis! Will miss this little guy :)|![](/images/icub.jpg){:height="400px" width="200px"}|
+|Successfully defended my Ph.D. thesis! Will miss this little guy :)|![](/images/icub.jpg){:height="300px" width="150px"}|
 
 2019
 ------
