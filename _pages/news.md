@@ -13,9 +13,12 @@ author_profile: true
 |Presented our work on "Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics" at [IJCNN](https://www.ijcnn.org/) 2019.|![](/images/ijcnn2019.jpg){:height="400px" width="200px"}|
 
 
+
+
 2018
 ------
-|My first DCOMM secondment will be at the University of Edinburgh, working under Timothy Hospedales' supervision.|![](/images/edinplacement.jpg){:height="400px" width="200px"}|
+
+|My first DCOMM secondment will be at the University of Edinburgh, working under Timothy Hospedales' supervision.|![](/images/edinplacement.jpg){:height="200px" width="400px"}|
 
 |Officially transferred to the University of Manchester, where I will be working as part of the newly formed [Cognitive Robotics Lab ](http://corolab.github.io)|![](/images/uom.jpg){:height="400px" width="200px"}|
 
