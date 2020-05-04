@@ -10,7 +10,7 @@ author_profile: true
 2019
 ------
 
-| Presented our work on "Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics" at [IJCNN](https://www.ijcnn.org/) 2019.|![](/images/ijcnn2019.jpg){:height="400px"} |
+| Presented our work on "Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics" at [IJCNN](https://www.ijcnn.org/) 2019.|![](/images/ijcnn2019.jpg){:height="400px" width="200px"} |
 
 2016
 ------
