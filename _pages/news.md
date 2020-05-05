@@ -22,8 +22,6 @@ author_profile: true
 
 |Presented our work on "Modelling the Single to Multi Word Transition Using Matrix Completion" at [IEEE ICDL-EPIROB](https://icdl-epirob2019.org/) 2019.|![](/images/icdl2019.jpg){:height="400px" width="200px"}|
 
-
-
 |Presented our work on "Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics" at [IJCNN](https://www.ijcnn.org/) 2019.|![](/images/ijcnn2019.jpg){:height="400px" width="200px"}|
 
 |A beautiful end to three years of fruitful collaborations and stimulating discussions as a Marie-Sklodowska Curie early stage researcher within DCOMM.|![](/images/dcommfinal.jpg){:height="400px" width="200px"}|
