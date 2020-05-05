@@ -26,8 +26,7 @@ author_profile: true
 
 |A beautiful end to three years of fruitful collaborations and stimulating discussions as a Marie-Sklodowska Curie early stage researcher within DCOMM.|![](/images/dcommfinal.jpg){:height="400px" width="200px"}|
 
-|Presented our work "On the Use of Deep Models for Gesture-Word
-Understanding in Developmental Robotics" at the [Deictic Communication - Theory and Application Conference](http://www.dcomm.eu/dcomm-conference/).|![](/images/dcommfinalconf.jpg){:height="400px" width="200px"}|
+|Presented our work "On the Use of Deep Models for Gesture-Word Understanding in Developmental Robotics" at the [Deictic Communication - Theory and Application Conference](http://www.dcomm.eu/dcomm-conference/).|![](/images/dcommfinalconf.jpg){:height="400px" width="200px"}|
 
 |My last DCOMM secondment will be at the Italian Institute of Technology, working under Vadim Tikhanoff's supervision.|![](/images/iitsecondment.jpg){:height="400px" width="200px"}|
 
