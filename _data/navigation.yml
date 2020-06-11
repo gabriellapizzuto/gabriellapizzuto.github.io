@@ -3,11 +3,8 @@ main:
   - title: "Research Projects"
     url: /research/  
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Outreach"
-    url: /outreach/    
+  - title: "CV"
+    url: /cv/  
         
   - title: "News"
     url: /news/

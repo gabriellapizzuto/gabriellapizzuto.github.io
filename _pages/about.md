@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I have joined the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate to work on the EPSRC funded project [NCNR](https://www.ncnr.org.uk/).
+Currently, I work within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate on the EPSRC funded project [NCNR](https://www.ncnr.org.uk/).
 
-Prior to this, I was an early stage researcher within the Marie-Sklodowska Curie Action educational training network, [DCOMM](http://www.dcomm.eu/), and obtained my Ph.D. from the [University of Manchester](https://www.manchester.ac.uk/). During my Ph.D., I was part of the [machine learning and robotics research group](https://www.cs.manchester.ac.uk/research/expertise/machine-learning-and-robotics/) and the [cognitive robotics lab](https://corolab.github.io/) under the supervision of [Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html) and [Gavin Brown](http://www.cs.man.ac.uk/~gbrown/), working on improving the iCub's language acquisition through perception.
-
-During my Ph.D., I have also carried out research secondments at Edinburgh with [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT with [Vadim Tikhanoff](https://www.iit.it/people/vadim-tikhanoff).
+Prior to this, I was an early stage researcher within the Marie-Sklodowska Curie Action educational training network, [DCOMM](http://www.dcomm.eu/), and obtained my Ph.D. from the [University of Manchester](https://www.manchester.ac.uk/). My work focused on improving the iCub's language acquisition through perception. During my Ph.D., I have also carried out research secondments at the University of Edinburgh [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT.
 
 My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and lifelong learning. I am broadly interested in the following topics: 
 
