@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+# About me
+
+- **Early career researcher in robotics and applied machine learning**.
+- Background: robotics, robot learning, machine vision, control.
+- Main interests: _manipulation_, learning of sensorimotor skills, (applied learning methods of) torque control for safe human-robot collaboration.
+- _Hardware experience_ with humanoid robotic platform **iCub** and manipulators **Baxter** and (minimal) **Kuka**.
+- _PyTorch_ and _Python_ knowledge for supervised and weakly supervised learning.
+
+---
+
 # Education
 
 - **Ph.D. in Computer Science**, University of Manchester, United Kingdom, 2020.
@@ -28,5 +38,19 @@ redirect_from:
 - **Scholarship** awarded for the biomedical engineering summer course at the University of Applied Sciences, Wilhelmshaven, Germany, 2013.
 
 - **Best Newcomer Award** at the IEEE Malta Student Branch Robot Wars competition, 2012.
+
+---
+
+# Skills
+
+- **Programming**: `Python` (experienced), `MATLAB` (experienced), `C++` (basic experience), `C` (prior experience)
+- **Machine Learning Frameworks**, `PyTorch` (experienced)
+- **Physics simulator**, `Mujoco` (basic experience), `PyBullet` (basic experience).
+- **Robots & Platforms**: `iCub`, `Baxter`, `Kuka`
+- **OS**: `Linux` (experienced), `MacOS` (prior experience), `Windows` (prior experience)
+- **Soft skills**:  `communication`, `critical thinking`, `decision making`, `goal setting`,`motivation`,`problem solving`, `self-management`, `teamwork`, `time management` 
+
+
+
 
 
