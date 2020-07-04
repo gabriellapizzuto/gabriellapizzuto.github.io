@@ -19,7 +19,7 @@ An overview of current and past research projects, funded by European and UKRI g
 Project: __National Centre for Nuclear Robotics__  
 Funded Period: 2019 - 2021   
 Funding Body: UKRI   
-Role: Researcher   
+Role: _Researcher_   
 Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__
 
 
@@ -32,7 +32,7 @@ Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments
 Project: __DCOMM__   
 Funded Period: 2016 - 2019   
 Funding Body: EU H2020 MSCA ITN  
-Role: Marie Sklodowska Curie - Early Stage Researcher  
+Role: _Marie Sklodowska Curie - Early Stage Researcher_  
 Research Topic: __From Single Words to Compositional Language - Application in Robot Language Learning__
 
 
@@ -42,7 +42,7 @@ Research Topic: __From Single Words to Compositional Language - Application in R
 Project: __Endeavour Scholarship Scheme__   
 Funded Period: 2015 - 2016   
 Funding Body: Part-financed by the European Union Operational Programme II – Cohesion Policy 2014 – 2020   
-Role: Student/ Researcher   
+Role: _Student/Researcher_   
 Research Topic: __Automatic Adaptation of Gains in the Computed Torque Model of a Robot Manipulator__ 
 
 
