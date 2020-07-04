@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, I work within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate.
 
-![](/images/ecr.jpg){:height="150px" width="300px"} ![](/images/ipab.png){:height="150px" width="300px"}   
+![](/images/ecr.jpg){:height="200px" width="400px"} ![](/images/ipab.png){:height="200px" width="400px"}   
 
 Prior to this, I was an early stage researcher within the Marie-Sklodowska Curie Action educational training network, [DCOMM](http://www.dcomm.eu/), and obtained my Ph.D. from the [University of Manchester](https://www.manchester.ac.uk/). My work focused on improving the iCub's language acquisition through perception. During my Ph.D., I have also carried out research secondments at the University of Edinburgh [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT.
 
