@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-An overview of current and past research projects, funded by European and UKRI grants.
+An overview of current and past research projects, funded by European and UKRI grants.  
 
 
 # Ongoing
@@ -22,7 +22,7 @@ Funding Body: UKRI
 Role: _Researcher_   
 Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__      
 
-
+------
 
 
 
