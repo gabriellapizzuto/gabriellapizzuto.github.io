@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Research Projects"
+  - title: "Current Research Interests"
     url: /research/  
+
+  - title: "Funded Projects"
+    url: /projects/
 
   - title: "CV"
     url: /cv/  
