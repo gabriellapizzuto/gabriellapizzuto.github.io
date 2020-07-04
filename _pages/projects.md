@@ -12,8 +12,8 @@ An overview of current and past research projects, funded by European and UKRI g
 ------
 ------
 
-# Ongoing
-------
+# Ongoing  
+
 
 ## **EPSRC NCNR RAI Hub**
 
@@ -28,10 +28,11 @@ Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments
 ------
 
 
-# Completed
-------
+# Completed  
+
 
 ## **DCOMM**
+
 
 ![](/images/dcommlogo.png){:height="100px" width="200px"}  
 Project: __DCOMM__   
