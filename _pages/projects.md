@@ -15,10 +15,10 @@ Ongoing
 
 **EPSRC NCNR RAI Hub**
 
-Project: National Centre for Nuclear Robotics <br/>
-Funded Period: 2019 - 2021 <br/>
-Funding Body: UKRI <br/>
-Role: Researcher <br/>
+Project: National Centre for Nuclear Robotics  
+Funded Period: 2019 - 2021   
+Funding Body: UKRI   
+Role: Researcher   
 Research Topic: Model-Based Learning for Robot Control in Nuclear Environments
 
 
