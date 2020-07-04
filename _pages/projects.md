@@ -21,8 +21,6 @@ Funding Body: UKRI
 Role: Researcher   
 Research Topic: Model-Based Learning for Robot Control in Nuclear Environments
 
-![](/images/icub.jpg){:height="300px" width="150px"}
-
 
 Completed
 ------
@@ -38,10 +36,10 @@ Research Topic: From Single Words to Compositional Language - Application in Rob
 
 **ENDEAVOUR Scheme**
 
-Project: Endeavour Scholarship Scheme   
+Project: Endeavour Scholarship Scheme ![](/images/Endeavour_logo.jpg){:height="300px" width="150px"}  
 Funded Period: 2015 - 2016   
 Funding Body: Part-financed by the European Union Operational Programme II – Cohesion Policy 2014 – 2020   
 Role: Student/ Researcher   
 Research Topic: Automatic Adaptation of Gains in the Computed Torque Model of a Robot Manipulator 
 
-![](/images/Endeavour_logo.jpg){:height="300px" width="150px"}
+
