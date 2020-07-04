@@ -20,9 +20,11 @@ Project: __National Centre for Nuclear Robotics__
 Funded Period: 2019 - 2021   
 Funding Body: UKRI   
 Role: _Researcher_   
-Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__
+Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__      
 
-\vspace{4cm}
+
+
+
 
 # Completed
 ------
