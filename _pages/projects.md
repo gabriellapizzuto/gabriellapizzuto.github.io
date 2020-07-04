@@ -13,7 +13,7 @@ An overview of current and past research projects, funded by European and UKRI g
 
 
 Ongoing
-______
+------
 
 **EPSRC NCNR RAI Hub**
 
@@ -26,7 +26,7 @@ Research Topic: Model-Based Learning for Robot Control in Nuclear Environments
 
 
 Completed
-______
+------
 
 **H2020-MSCA-ITN-2015-DCOMM**
 
