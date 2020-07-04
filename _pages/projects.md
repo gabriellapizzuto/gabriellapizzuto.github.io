@@ -9,6 +9,8 @@ author_profile: true
 
 An overview of current and past research projects, funded by European and UKRI grants.  
 
+------
+------
 
 # Ongoing
 ------
@@ -23,7 +25,7 @@ Role: _Researcher_
 Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__      
 
 ------
-
+------
 
 
 # Completed
