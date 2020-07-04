@@ -22,6 +22,7 @@ Funding Body: UKRI
 Role: _Researcher_   
 Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__
 
+\vspace{4cm}
 
 # Completed
 ------
