@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gabriella Pizzuto"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -32,7 +32,6 @@ My research interests lie within the intersection of **robot learning** and **co
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 ## Most Recent News
-======
 
 (12/2019) I have joined [Michael Mistry](https://www.edinburgh-robotics.org/academics/michael-mistry) at the University of Edinburgh as a Postdoctoral Research Associate.
 
