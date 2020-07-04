@@ -10,10 +10,10 @@ author_profile: true
 An overview of current and past research projects, funded by European and UKRI grants.
 
 
-#Ongoing
+# Ongoing
 ------
 
-##**EPSRC NCNR RAI Hub**
+## **EPSRC NCNR RAI Hub**
 
 Project: National Centre for Nuclear Robotics  
 Funded Period: 2019 - 2021   
@@ -22,10 +22,10 @@ Role: Researcher
 Research Topic: Model-Based Learning for Robot Control in Nuclear Environments
 
 
-#Completed
+# Completed
 ------
 
-##**DCOMM**
+## **DCOMM**
 
 Project: DCOMM   
 Funded Period: 2016 - 2019   
@@ -34,9 +34,10 @@ Role: Marie Sklodowska Curie - Early Stage Researcher
 Research Topic: From Single Words to Compositional Language - Application in Robot Language Learning
 
 
-##**ENDEAVOUR Scheme**
+## **ENDEAVOUR Scheme**
 
-Project: Endeavour Scholarship Scheme ![](/images/Endeavour_logo.jpg){:height="200px" width="100px"}  
+![](/images/Endeavour_logo.jpg){:height="200px" width="100px"}  
+Project: Endeavour Scholarship Scheme   
 Funded Period: 2015 - 2016   
 Funding Body: Part-financed by the European Union Operational Programme II – Cohesion Policy 2014 – 2020   
 Role: Student/ Researcher   
