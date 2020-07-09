@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
 
-# Profile
 
 - **Early career researcher in robotics and applied machine learning**.
 - Background: robotics, robot learning, machine vision, control.
