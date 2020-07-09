@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
 An overview of current and past research projects, funded by European and UKRI grants.  
 
 ------

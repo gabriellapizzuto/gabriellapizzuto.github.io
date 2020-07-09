@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
 - **Early career researcher in robotics and applied machine learning**.
 - Background: robotics, robot learning, machine vision, control.
 - Main interests: _manipulation_, learning of sensorimotor skills, (applied learning methods of) torque control for safe human-robot collaboration.
