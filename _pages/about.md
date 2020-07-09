@@ -20,18 +20,18 @@ Prior to this, I was a Marie-Sklodowska Curie early stage researcher within the 
 
 During my Ph.D., I have also carried out research secondments at the University of Edinburgh [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT.
 
-## Research Interests
+# Research Interests
 
-My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and lifelong learning. I am broadly interested in the following topics: 
+My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and safe human-robot collaboration. I am broadly interested in the following topics: 
 
 * statistical learning for dynamical and control systems
 * physics-constrained learning
 * bridging model-based and learning-based dynamical and control systems
-* system identification 
+* safe human-robot collaboration 
 
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
-## Most Recent News
+# Most Recent News
 
 (12/2019) I have joined [Michael Mistry](https://www.edinburgh-robotics.org/academics/michael-mistry) at the University of Edinburgh as a Postdoctoral Research Associate.
 
