@@ -1,15 +1,12 @@
 ---
 title: 'Real Robot Manipulation Datasets For Learning Dynamics'
 date: 2020-08-14
+permalink: /posts/2020/08/real-robot-ds/
 
 tags:
   - robotics
 ---
 
-
-# Real Robot Manipulation Datasets For Learning Dynamics
-
----
 
 TL; DR: **Real robot datasets** are especially useful to benchmark and **evaluate** **model learning** techniques. Our efforts is to maintain a list of the available datasets for **learning forward and inverse dynamics of robotic manipulators** to encourage more reproducible research in robotics. 
 
