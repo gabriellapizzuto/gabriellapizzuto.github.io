@@ -7,7 +7,6 @@ tags:
   - robotics
 ---
 
-
 TL; DR: **Real robot datasets** are especially useful to benchmark and **evaluate** **model learning** techniques. Our efforts is to maintain a list of the available datasets for **learning forward and inverse dynamics of robotic manipulators** to encourage more reproducible research in robotics. 
 
 ## *Why do we need these?*
