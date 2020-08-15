@@ -61,6 +61,16 @@ $${\tau} = Inverse Dynamics(q, \dot{q}, \ddot{q})$$
 
 Here, the _inputs_ are the _joint positions, velocities and accelerations_ and the _outputs_ are the learned _torques_. 
 
+## Summary of Datasets
+
+
+|                          Dataset Name                         |                                                                                                                                                                  Reference                                                                                                                                                                  | Dynamics Problem | Robot Platform                | Link to Dataset                                              |
+|:-------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------:|-------------------------------|--------------------------------------------------------------|
+|              Dataset 1: Transfer Dynamics Dataset             | D. Agudelo-España, A. Zadaianchuk, P. Wenk, A. Garg, J. Akpo, F. Grimminger, J. Viereck, M. Naveau,  L. Righetti, G. Martius, A. Krause, B. Scholkopf, S. Bauer,  and M. Wuthrich,  "A Real-Robot Dataset for Assessing Transferability of Learned Dynamics Models", IEEE International Conference on Robotics and Automation (ICRA), 2020. | Forward Dynamics | Open Dynamic Robot Initiative | https://github.com/rr-learning/transferable_dynamics_dataset |
+| Dataset 2: Forward Dynamics Dataset Using KUKA LWR and Baxter |                                 A. S. Polydoros and L. Nalpantidis, "A reservoir computing approach for learning forward dynamics of industrial manipulators,"  2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Daejeon, 2016, pp. 612-618, doi: 10.1109/IROS.2016.7759116.                                | Forward Dynamics | KUKA, Baxter                  | https://bitbucket.org/athapoly/datasets/src/master/          |
+|   Dataset 3: Inverse Dynamics Dataset Using UR10 and Baxter   | A. S. Polydoros, L. Nalpantidis and V. Krüger, "Real-time deep learning of robotic manipulator inverse dynamics,"  2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, 2015, pp. 3442-3448, doi: 10.1109/IROS.2015.7353857.                                                                           | Inverse Dynamics | Baxter, UR10                  | https://bitbucket.org/athapoly/datasets/src/master/          |
+|         Dataset 4: Inverse Dynamics Dataset Using KUKA        | A. Paraschos, J. Peters, and E. Rueckert, "Dataset to learning inverse dynamics models in o(n) time with LSTM networks", 2017.                                                                                                                                                                                                              | Inverse Dynamics | KUKA                          | http://robotics.com.de/ds/DATASETHumanoids2017Rueckert.zip   |
+
 # Dataset 1: Transfer Dynamics Dataset
 
 ## Dataset Overview
