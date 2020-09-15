@@ -30,7 +30,9 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
-(12/2019) I have joined [Michael Mistry](https://www.edinburgh-robotics.org/academics/michael-mistry) at the University of Edinburgh as a Postdoctoral Research Associate.
+(08/2020) Our [paper](https://arxiv.org/abs/2008.13585) accepted at [ACM HAI 2020](http://hai-conference.net/hai2020/)
+
+(12/2019) I have joined [Michael Mistry](http://homepages.inf.ed.ac.uk/mmistry/index.html) at the University of Edinburgh as a Postdoctoral Research Associate.
 
 (11/2019) I have submitted my Ph.D. thesis at the [University of Manchester](https://www.cs.manchester.ac.uk/).
 
