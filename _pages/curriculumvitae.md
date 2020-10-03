@@ -5,8 +5,7 @@ permalink: /curriculumvitae/
 author_profile: true
 ---
 
-
-- **Early career researcher in robotics and applied machine learning**.
+- Early career researcher in robotics and applied machine learning.
 - Background: robotics, robot learning, machine vision, control.
 - Main interests: _manipulation_, learning of sensorimotor skills, (applied learning methods of) torque control for safe human-robot collaboration.
 - _Hardware experience_ with humanoid robotic platform **iCub** and manipulators **Baxter** and (minimal) **Kuka**.
@@ -16,9 +15,9 @@ author_profile: true
 
 # Education
 
-- **Ph.D. in Computer Science**, University of Manchester, United Kingdom, 2020.
-- **M. Sc. in Computational Neuroscience and Cognitive Robotics (Distinction)**, University of Birmingham, United Kingdom, 2016.
-- **B. Eng. with honours in Electrical and Electronic Engineering**, University of Malta, Malta, 2015.
+- **Ph.D. in Computer Science**, University of Manchester, UK, 2020.
+- **M. Sc. in Computational Neuroscience and Cognitive Robotics (Distinction)**, University of Birmingham, UK, 2016.
+- **B. Eng. (hons.) in Electrical and Electronic Engineering**, University of Malta, Malta, 2015.
 
 ---
 
@@ -38,12 +37,12 @@ author_profile: true
 
 # Skills
 
-- **Programming**: `Python` (experienced), `MATLAB` (experienced), `C++` (basic experience), `C` (prior experience)
-- **Machine Learning Frameworks**, `PyTorch` (experienced)
+- **Programming**: `Python` (experienced), `MATLAB` (experienced), `C++` (basic experience), `C` (prior experience).
+- **Machine Learning Frameworks**, `PyTorch` (experienced).
 - **Physics simulator**, `Mujoco` (basic experience), `PyBullet` (basic experience).
-- **Robots & Platforms**: `iCub`, `Baxter`, `Kuka`
-- **OS**: `Linux` (experienced), `MacOS` (prior experience), `Windows` (prior experience)
-- **Soft skills**:  `communication`, `critical thinking`, `decision making`, `goal setting`,`motivation`,`problem solving`, `self-management`, `teamwork`, `time management` 
+- **Robots & Platforms**: `iCub`, `Baxter`, `Kuka`.
+- **OS**: `Linux` (experienced), `MacOS` (prior experience), `Windows` (prior experience).
+- **Soft skills**:  `communication`, `critical thinking`, `decision making`, `goal setting`,`motivation`,`problem solving`, `self-management`, `teamwork`, `time management`.
 
 
 
