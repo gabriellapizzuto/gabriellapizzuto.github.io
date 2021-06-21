@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 ------
+Currently, I work within the Autononous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate.
 
-Currently, I work within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate.
+Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate.
 
 ![](/images/ecr.jpg){:height="170px" width="300px"} ![](/images/ipab.png){:height="170px" width="300px"}   
 
@@ -29,6 +30,12 @@ My research interests lie within the intersection of **robot learning** and **co
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
+
+(07/2021) I am very honoured to join the [SCWIST Science Symposium](https://scwist.ca/forms/young-scientists-on-board/?swcfpc=1) as a judge for the Machine Learning category!
+
+(04/2021) I have joined [Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) at the University of Liverpool as a senior Postdoctoral Research Associate.
+
+(03/2021) Our [paper](http://proceedings.mlr.press/v144/pizzuto21a.html) accepted at [L4DC 2021](https://l4dc.ethz.ch/).
 
 (08/2020) Our [paper](https://arxiv.org/abs/2008.13585) accepted at [ACM HAI 2020](http://hai-conference.net/hai2020/).
 
