@@ -11,7 +11,21 @@ An overview of current and past research projects, funded by European and UKRI g
 ------
 
 # Ongoing  
+## **ERC Synergy ADAM**
 
+![](/images/erc.png){:height="100px" width="200px"}  
+Project: __Autonomous Discovery of Advanced Materials__  
+Website: [https://cordis.europa.eu/project/id/856405](https://cordis.europa.eu/project/id/856405)  
+Funded Period: 2021 - 2026   
+Funding Body: ERC   
+Role: _Lead Researcher_   
+Research Topic: __Autononous (Mobile) Manipulation for Chemistry Laboratories__      
+
+------
+------
+
+
+# Completed  
 
 ## **EPSRC NCNR RAI Hub**
 
@@ -21,16 +35,9 @@ Website: [https://www.ncnr.org.uk/](https://www.ncnr.org.uk/)
 Funded Period: 2019 - 2021   
 Funding Body: UKRI   
 Role: _Researcher_   
-Research Topic: __Model-Based Learning for Robot Control in Nuclear Environments__      
+Research Topic: __Physics-guided Robot Learning in Nuclear Environments__      
 
-------
-------
-
-
-# Completed  
-
-
-## **DCOMM**
+## **EU H2020 MSCA DCOMM**
 
 
 ![](/images/dcommlogo.png){:height="100px" width="200px"}  
