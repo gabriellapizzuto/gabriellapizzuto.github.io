@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ------
-Currently, I work within the Autononous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate.
+I am an early career researcher in robot learning. Currently, I work within the Autononous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
-Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate.
+Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked under the supervision of [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
 ![](/images/ecr.jpg){:height="170px" width="300px"} ![](/images/ipab.png){:height="170px" width="300px"}   
 
-Prior to this, I was a Marie-Sklodowska Curie early stage researcher within the [Cognitive Robotics Lab](https://corolab.github.io/) and obtained my Ph.D. from the [University of Manchester](https://www.manchester.ac.uk/). My work focused on improving the iCub's language acquisition through perception.  
+Prior to this, I was a Marie-Sklodowska Curie early stage researcher within the [Cognitive Robotics Lab](https://corolab.github.io/), supervised by [Prof. Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html) and obtained my Ph.D. in Computer Science from the [University of Manchester](https://www.manchester.ac.uk/). My work focused on improving the iCub's language acquisition through perception.  
 
 ![](/images/uom.jpeg){:height="170px" width="300px"}   
 
