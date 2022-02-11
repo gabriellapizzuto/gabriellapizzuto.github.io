@@ -26,14 +26,24 @@ My research interests lie within the intersection of **robot learning** and **co
 * physics-constrained learning
 * bridging model-based and learning-based dynamical and control systems
 * safe human-robot collaboration 
+* robot vision for laboratory environments
+* contact-based robot skill learning
 
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
 
+(02/2022) I have been invited to serve as Associate Editor for [IROS2022](https://iros2022.org/)! 
+
+(01/2022) Our paper __ARChemist: Autonomous Robotic Chemistry System Architecture__ was accepted for ICRA2022! A step forward towards using robotic platforms in Chemistry laboratories :) 
+
+(01/2022) I really enjoyed presenting and discussing our work on __Robotics for Material Discovery__ at the Finnish Centre for AI, and seeing some old familiar faces!
+
+(11/2021) Excited to share our research on __Robotics for Real World Applications__ at [Long-View Learning + Micro School](https://twitter.com/long_view_atx/status/1460299755628773386) through Skype a Scientist! 
+
 (07/2021) I am very honoured to join the [SCWIST Science Symposium](https://scwist.ca/forms/young-scientists-on-board/?swcfpc=1) as a judge for the Machine Learning category!
 
-(04/2021) I have joined [Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) at the University of Liverpool as a senior Postdoctoral Research Associate.
+(04/2021) I have joined [Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) at the University of Liverpool as a senior Postdoctoral Research Associate. I will be leading the UoL team on the £10m [ERC Synergy Grant ADAM](http://erc-adam.eu/).
 
 (03/2021) Our [paper](http://proceedings.mlr.press/v144/pizzuto21a.html) accepted at [L4DC 2021](https://l4dc.ethz.ch/).
 
