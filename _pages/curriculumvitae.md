@@ -7,9 +7,6 @@ author_profile: true
 
 - Early career researcher in robotics and applied machine learning.
 - Background: robotics, robot learning, machine vision, control.
-- Main interests: _manipulation_, learning of sensorimotor skills, (applied learning methods of) torque control for safe human-robot collaboration.
-- _Hardware experience_ with humanoid robotic platform **iCub** and manipulators **Baxter** and (minimal) **Kuka**.
-- _PyTorch_ and _Python_ knowledge for supervised and weakly supervised learning.
 
 ---
 
@@ -39,8 +36,8 @@ author_profile: true
 
 - **Programming**: `Python` (experienced), `MATLAB` (experienced), `C++` (basic experience), `C` (prior experience).
 - **Machine Learning Frameworks**, `PyTorch` (experienced).
-- **Physics simulator**, `Mujoco` (basic experience), `PyBullet` (basic experience).
-- **Robots & Platforms**: `iCub`, `Baxter`, `Kuka`.
+- **Physics simulator**, `Mujoco` (experienced), `PyBullet` (experienced).
+- **Robots & Platforms**: `Franka Emika Panda`, `iCub`, `Baxter`, (minimal) `Kuka`.
 - **OS**: `Linux` (experienced), `MacOS` (prior experience), `Windows` (prior experience).
 - **Soft skills**:  `communication`, `critical thinking`, `decision making`, `goal setting`,`motivation`,`problem solving`, `self-management`, `teamwork`, `time management`.
 
