@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-I am an early career researcher in robot learning. Currently, I work within the Autononous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
+I am an early career researcher in robot learning. Currently, I work within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
 Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked under the supervision of [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
@@ -35,7 +35,7 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 (03/2022) Excited to kick off robot learning in the Autonomous Chemistry Lab with our paper [__SOLIS: Autonomous Solubility Screening using Deep Neural Networks__](https://arxiv.org/abs/2203.10970). We propose the first fully autonomous solubility screening framework, which leverages state-of-the-art deep models for image segmentation and classification.
 
-(02/2022) I have been invited to serve as Associate Editor for [IROS2022](https://iros2022.org/)! 
+(02/2022) I have been invited to serve as an Associate Editor for [IROS2022](https://iros2022.org/)! 
 
 (01/2022) Our paper __ARChemist: Autonomous Robotic Chemistry System Architecture__ was accepted for ICRA2022! A step forward towards using robotic platforms in Chemistry laboratories :) 
 
