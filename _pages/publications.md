@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,8 +10,29 @@ author_profile: true
 {% endif %}
 
 2022
+---
 
 ![](/images/crystal_weight.png){:height="350px" width="150px"} <font size="0.5"> H. Fakhruldeen, G. Pizzuto, J. Glawucki, A.I. Cooper, ARChemist : Autonomous Robotic Chemistry
 System Architecture, IEEE ICRA. </font> 
 
 ![](/images/ijcnn2022.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, J. de Berardinis, L. Longley, H. Fakhruldeen, A.I. Cooper, SOLIS: Autonomous Solubility Screening using Deep Neural Networks, IEEE IJCNN. </font> 
+
+![](/images/iros2022.png){:height="350px" width="150px"} <font size="0.5">D. Jorge, G. Pizzuto, M. Mistry, Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control, under review. </font> 
+
+2021
+---
+
+![](/images/l4dc2021.png){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, M. Mistry, Physics-penalised Regularisation for Learning Dynamics Models with Contact, L4DC. </font>
+
+
+2020
+---
+
+![](/images/hai2020.png){:height="350px" width="150px"} <font size="0.5"> J. de Berardinis*, G.Pizzuto*, F. Lanza*, J. Meira*, A. Chella, A. Cangelosi, At Your Service: Coffee Beans Recommendation From a Robot Assistant, ACM HAI. </font>
+
+2019
+---
+
+![](/images/ijcnn2019.png){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, A. Cangelosi, Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics, IEEE IJCNN. </font>
+
+![](/images/icdlepirob.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, T. Hospedales, O. Capirci, A. Cangelosi, Modelling the Single Word to Multi-Word Transition Using Matrix Completion, IEEE ICDL-EPIROB. </font>
