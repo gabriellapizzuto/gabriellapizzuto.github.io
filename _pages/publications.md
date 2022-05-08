@@ -12,6 +12,6 @@ author_profile: true
 2022
 
 ![](/images/crystal_weight.png){:height="350px" width="150px"} <font size="0.5"> H. Fakhruldeen, G. Pizzuto, J. Glawucki, A.I. Cooper, ARChemist : Autonomous Robotic Chemistry
-System Architecture, IEEE International Conference on Robotics and Automation. </font> 
+System Architecture, IEEE ICRA. </font> 
 
-![](/images/ijcnn2022.jpg){:height="300px" width="100px"} <font size="0.5"> G. Pizzuto, J. de Berardinis, L. Longley, H. Fakhruldeen, A.I. Cooper, SOLIS: Autonomous Solubility Screening using Deep Neural Networks, IEEE International Joint Conference on Neural Networks. </font> 
+![](/images/ijcnn2022.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, J. de Berardinis, L. Longley, H. Fakhruldeen, A.I. Cooper, SOLIS: Autonomous Solubility Screening using Deep Neural Networks, IEEE IJCNN. </font> 
