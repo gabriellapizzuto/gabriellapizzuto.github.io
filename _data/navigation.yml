@@ -3,6 +3,9 @@ main:
   - title: "Funded Projects"
     url: /projects/
 
+  - title: "Selected Publications"
+    url: /publications/
+
   - title: "CV"
     url: /curriculumvitae/  
     

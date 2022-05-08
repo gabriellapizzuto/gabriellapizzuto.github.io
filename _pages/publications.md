@@ -9,3 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+2022
+------
+
+|![](/images/crystal_weight.png){:height="450px" width="250px"}| H. Fakhruldeen, **G. Pizzuto**, J. Glawucki, A.I. Cooper, ARChemist : Autonomous Robotic Chemistry
+System Architecture, IEEE International Conference on Robotics and Automation, 2022. |

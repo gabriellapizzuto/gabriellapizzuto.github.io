@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - Early career researcher in robotics and applied machine learning.
-- Background: robotics, robot learning, machine vision, control.
+- Background: robotics, robot learning, machine vision, robot control.
 
 ---
 
@@ -19,6 +19,8 @@ author_profile: true
 ---
 
 # Awards
+
+- ICRA Outstanding Automation paper finalist, Philadelphia, 2022.
 
 - **Grant** awarded to attend the 3rd Summer School on Integrating Vision and Language: Vision and Language Integration in Cognitive Robotics, Athens, Greece, 2017.
 
