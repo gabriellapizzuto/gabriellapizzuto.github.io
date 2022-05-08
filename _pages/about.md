@@ -33,7 +33,7 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
-(05/2022) Our paper [__ARChemist: Autonomous Robotic Chemistry System Architecture__](https://arxiv.org/abs/2204.13571) is aa [Outstanding Automation Paper finalist](https://www.icra2022.org/program/awards) at ICRA 2022!
+(05/2022) Our paper [__ARChemist: Autonomous Robotic Chemistry System Architecture__](https://arxiv.org/abs/2204.13571) is an [Outstanding Automation Paper finalist](https://www.icra2022.org/program/awards) at ICRA 2022!
 
 
 (04/2022) Excited to kick off robot learning in the Autonomous Chemistry Lab with our paper [__SOLIS: Autonomous Solubility Screening using Deep Neural Networks__](https://arxiv.org/abs/2203.10970). We propose the first fully autonomous solubility screening end-to-end model. Our work was recently accepted at [IJCNN 2022](https://wcci2022.org/) as an Oral presentation!

@@ -10,7 +10,6 @@ author_profile: true
 {% endif %}
 
 2022
-------
 
-|![](/images/crystal_weight.png){:height="450px" width="250px"}| H. Fakhruldeen, **G. Pizzuto**, J. Glawucki, A.I. Cooper, ARChemist : Autonomous Robotic Chemistry
-System Architecture, IEEE International Conference on Robotics and Automation, 2022. |
+![](/images/crystal_weight.png){:height="350px" width="150px"}| H. Fakhruldeen, **G. Pizzuto**, J. Glawucki, A.I. Cooper, ARChemist : Autonomous Robotic Chemistry
+System Architecture, IEEE International Conference on Robotics and Automation, 2022. 
