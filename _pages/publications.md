@@ -35,4 +35,4 @@ System Architecture, IEEE ICRA. </font>
 
 ![](/images/ijcnn2019.png){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, A. Cangelosi, Exploring Deep Models for Comprehension of Deictic Gesture-Word Combinations in Cognitive Robotics, IEEE IJCNN. </font>
 
-![](/images/icdlepirob.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, T. Hospedales, O. Capirci, A. Cangelosi, Modelling the Single Word to Multi-Word Transition Using Matrix Completion, IEEE ICDL-EPIROB. </font>
+![](/images/icdlepirob2019.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, T. Hospedales, O. Capirci, A. Cangelosi, Modelling the Single Word to Multi-Word Transition Using Matrix Completion, IEEE ICDL-EPIROB. </font>
