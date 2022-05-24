@@ -9,13 +9,13 @@ I have been very fortunate to work with the following remarkable students:
 
 # Thesis Supervision (University of Edinburgh)
 
-- **David Jorge**, __Online Inverse Dynamics Learning Using Sparse Gaussian Processes__, MInf, 2020-2022 (Co-advised with Prof. Michael Mistry).
+- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf, 2020-2022 (Co-advised with Prof. Michael Mistry).
 
-- **Guangyu Yang**, __Inverse Dynamics Model Learning Using Neural Networks__, MSc, 2019-2020 (Co-advised with Prof. Michael Mistry).
+- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc, 2019-2020 (Co-advised with Prof. Michael Mistry).
 
 # Summer Internship Supervision (University of Liverpool)
 
-- **Yixin Cai**, __Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory__, Summer Research Internship, 2021 (Co-advised with Prof. Andy Cooper).
+- **Yixin Cai**, _Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory_, Summer Research Internship, 2021 (Co-advised with Prof. Andy Cooper).
 
 ---
 
@@ -28,7 +28,7 @@ I am module leader for the following modules in the Department of Computer Scien
 
 ---
 
-__I am always looking to work with and help underrepresented groups in STEM fields, particularly in the field of robotics (robot learning, manipulation, robot vision) for real-world applications, primarily in Chemistry/material discovery laboratories; please email me directly if you would like to work on projects in our Autonomous Robotic Chemistry Lab or you are trying to find a project related to the ones I have previously supervised.__
+_I am always looking to work with and help underrepresented groups in STEM fields, particularly in the field of robotics (robot learning, manipulation, robot vision) for real-world applications, primarily in Chemistry/material discovery laboratories; please email me directly if you would like to work on projects in our Autonomous Robotic Chemistry Lab or you are trying to find a project related to the ones I have previously supervised._
 
 
 
