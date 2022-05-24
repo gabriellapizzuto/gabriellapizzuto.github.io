@@ -5,6 +5,9 @@ main:
 
   - title: "Selected Publications"
     url: /publications/
+    
+  - title: "Teaching & Supervision"
+    url: /teachingsupervision/
 
   - title: "CV"
     url: /curriculumvitae/  
