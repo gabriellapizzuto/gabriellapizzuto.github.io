@@ -17,7 +17,7 @@ System Architecture, IEEE ICRA. </font>
 
 ![](/images/ijcnn2022.jpg){:height="350px" width="150px"} <font size="0.5"> G. Pizzuto, J. de Berardinis, L. Longley, H. Fakhruldeen, A.I. Cooper, SOLIS: Autonomous Solubility Screening using Deep Neural Networks, IEEE IJCNN. </font> 
 
-![](/images/iros2022.png){:height="350px" width="150px"} <font size="0.5">D. Jorge, G. Pizzuto, M. Mistry, Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control, under review. </font> 
+![](/images/iros2022.png){:height="350px" width="150px"} <font size="0.5">D. Jorge, G. Pizzuto, M. Mistry, Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control, IEEE IROS. </font> 
 
 2021
 ---
