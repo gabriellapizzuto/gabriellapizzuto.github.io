@@ -17,6 +17,8 @@ I have been very fortunate to work with the following remarkable students:
 
 - **Yixin Cai**, _Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory_, Summer Research Internship, 2021 (Co-advised with Prof. Andy Cooper).
 
+- **Hetong Wang**, _Robot Skill Learning for Chemistry Labs_, Summer Research Internship, 2022 (Co-advised with Prof. Andy Cooper).
+
 ---
 
 # Teaching
