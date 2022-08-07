@@ -33,12 +33,15 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
+(08/2022) I will be giving an invited talk at the [Accelerate Conference](https://accelerateconf.utoronto.ca/program/).
+
+(07/2022) I gave an invited talk at the Monash Robotics Seminar on [__The Role of Intelligent Robotic Systems in Laboratory Environments__](https://www.monash.edu/engineering/robotics/news-and-events/events/robotics-seminar-the-role-of-intelligent-robotic-systems-in-laboratory-environments).
+
 (06/2022) Our paper [__Efficient Learning of Inverse Dynamics Models for Adaptive Computed Torque Control__](https://arxiv.org/pdf/2205.04796.pdf) was accepted for IROS2022! 
 
 (05/2022) Happy to share our research on __The New Era of Robotics For Material Discovery__ as a keynote speaker at the [EPSRC Future Continuous Manufacturing and Advanced Crystallisation (CMAC) Research Hub Open Days](https://cmac.ac.uk/events-database/cmac-open-day-2022-hub-and-articular-showcase)! 
 
 (05/2022) Our paper [__ARChemist: Autonomous Robotic Chemistry System Architecture__](https://arxiv.org/abs/2204.13571) is an [Outstanding Automation Paper finalist](https://www.icra2022.org/program/awards) at ICRA 2022!
-
 
 (04/2022) Excited to kick off robot learning in the Autonomous Chemistry Lab with our paper [__SOLIS: Autonomous Solubility Screening using Deep Neural Networks__](https://arxiv.org/abs/2203.10970). We propose the first fully autonomous solubility screening end-to-end model. Our work was recently accepted at [IJCNN 2022](https://wcci2022.org/) as an Oral presentation!
 
