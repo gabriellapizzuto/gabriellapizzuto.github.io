@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ------
-I am an early career researcher in robot learning. Currently, I work within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
+I am a researcher in robot learning. Currently, I work within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
 Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked under the supervision of [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
@@ -32,6 +32,10 @@ My research interests lie within the intersection of **robot learning** and **co
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
+
+(10/2022) I will be giving an industrial talk at the [Robotics and Automation Exhibition](https://www.roboticsandautomation.co.uk/conference) on __Robotics for Accelerating Material Discovery__.
+
+(10/2022) It was great to meet the [future roboticists at Brooke Weston Academy](https://www.brookeweston.org/news/?pid=10&nid=1&storyid=927) through Skype a Scientist.
 
 (08/2022) I will be giving an invited talk at the [Accelerate Conference](https://accelerateconf.utoronto.ca/program/).
 
