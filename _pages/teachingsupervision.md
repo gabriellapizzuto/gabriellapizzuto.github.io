@@ -7,11 +7,8 @@ author_profile: true
 
 I have been very fortunate to work with the following remarkable students:
 
-# Thesis Supervision (University of Edinburgh)
-
-- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf, 2020-2022 (Co-advised with Prof. Michael Mistry).
-
-- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc, 2019-2020 (Co-advised with Prof. Michael Mistry).
+# PhD Supervision (University of Liverpool)
+- **Hadi Beyzaee**, _Failure and recovery of robotic chemists for computationally-guided materials discovery_, Co-advised with Prof. Andy Cooper.
 
 # Summer Internship Supervision (University of Liverpool)
 
@@ -19,14 +16,20 @@ I have been very fortunate to work with the following remarkable students:
 
 - **Hetong Wang**, _Robot Skill Learning for Chemistry Labs_, Summer Research Internship, 2022 (Co-advised with Prof. Andy Cooper).
 
+# Thesis Supervision (University of Edinburgh)
+
+- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf, 2020-2022 (Co-advised with Prof. Michael Mistry).
+
+- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc, 2019-2020 (Co-advised with Prof. Michael Mistry).
+
 ---
 
 # Teaching
 
 I am module leader for the following modules in the Department of Computer Science at the University of Liverpool:
 
-- CSCK501: Global Trends in Computer Science (online)
 - CSCK505: Robotics (online)
+- CSCK501: Global Trends in Computer Science (online)
 
 ---
 

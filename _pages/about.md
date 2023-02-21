@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ------
-I am a researcher in robot learning. Currently, I work within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I am truly enjoying developing novel robot learning methods and looking forward to deploying these on our robotic platforms (Franka Emika Panda, KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
+I am a researcher in robot learning and an incoming Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. I have an [opening](https://www.findaphd.com/phds/project/robot-learning-for-laboratory-environments/?p155430) for a PhD student to join my new group.
+
+Until September 2023, I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
 Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked under the supervision of [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
@@ -18,20 +20,38 @@ Prior to this, I was a Marie-Sklodowska Curie early stage researcher within the 
 
 During my Ph.D., I have also carried out research secondments at the University of Edinburgh [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT.
 
+# Job Openings
+
+* PhD Studentship on [Robot Learning for Laboratory Environments](https://www.findaphd.com/phds/project/robot-learning-for-laboratory-environments/?p155430) funded by the prestigious Leverhulme Research Centre for Functional Materials Design - __Deadline: 31st May; however, we will close the application early if we find a suitable candidate__.
+
+* Summer Research Students on [Creating the Next-Generation of Laboratory Robot Companions](https://www.liverpool.ac.uk/global-opportunities/inbound/summer-research-programme/projects/) - __Deadline: 15th March__.
+
+* Summer Internships (TBA soon) supported by the Leverhulme Research Centre for Functional Materials Design.
+
+__For these positions, please email me a concise motivation letter, research statement, and a CV with the email subject being "Prospective PhD/Internship Student". I am always open to support students with their own funding; however, please mention this in your email.__
+
 # Research Interests
 
 My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and safe human-robot collaboration. I am broadly interested in the following topics: 
 
+* contact-based robot skill learning
+* safe human-robot collaboration 
+* machine vision for laboratory environments
 * statistical learning for dynamical and control systems
 * physics-constrained learning
 * bridging model-based and learning-based dynamical and control systems
-* safe human-robot collaboration 
-* robot vision for laboratory environments
-* contact-based robot skill learning
 
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
+
+(02/2023) I gave a talk on [The Role of Intelligent Robotic Systems in Laboratory Environments](https://www.ieee-ukandireland.org/watch-again-ieee-wie-uki-ambassadors-scheme-early-career-talk-8/) at the IEEE WIE UKI Ambassadors’ Scheme Early Career Talk Webinar.
+
+(01/2023) I gave an invited talk at the [Laboratory of the Future](https://go.technologynetworks.com/lab_of_the_future_2023) on using Intelligent Robotics for Material Discovery.
+
+(01/2023) Excited to be joining the University of Liverpool as a Lecturer in Robotics and Chemistry Automation in September 2023!
+
+(10/2022) I have been selected as a [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) and I am very much looking forward to visit German robotics labs next year!
 
 (10/2022) I will be giving an industrial talk at the [Robotics and Automation Exhibition](https://www.roboticsandautomation.co.uk/conference) on __Robotics for Accelerating Material Discovery__.
 
@@ -54,19 +74,4 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 (01/2022) Our paper [__ARChemist: Autonomous Robotic Chemistry System Architecture__](https://arxiv.org/abs/2204.13571) was accepted for ICRA2022! A step forward towards using robotic platforms in Chemistry laboratories :) 
 
 (01/2022) I really enjoyed presenting and discussing our work on __Robotics for Material Discovery__ at the Finnish Centre for AI, and seeing some old familiar faces!
-
-(11/2021) Excited to share our research on __Robotics for Real World Applications__ at [Long-View Learning + Micro School](https://twitter.com/long_view_atx/status/1460299755628773386) through Skype a Scientist! 
-
-(07/2021) I am very honoured to join the [SCWIST Science Symposium](https://scwist.ca/forms/young-scientists-on-board/?swcfpc=1) as a judge for the Machine Learning category!
-
-(04/2021) I have joined [Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) at the University of Liverpool as a senior Postdoctoral Research Associate. I will be leading the UoL team on the £10m [ERC Synergy Grant ADAM](http://erc-adam.eu/).
-
-(03/2021) Our [paper](http://proceedings.mlr.press/v144/pizzuto21a.html) accepted at [L4DC 2021](https://l4dc.ethz.ch/).
-
-(08/2020) Our [paper](https://arxiv.org/abs/2008.13585) accepted at [ACM HAI 2020](http://hai-conference.net/hai2020/).
-
-(12/2019) I have joined [Michael Mistry](http://homepages.inf.ed.ac.uk/mmistry/index.html) at the University of Edinburgh as a Postdoctoral Research Associate.
-
-(11/2019) I have submitted my Ph.D. thesis at the [University of Manchester](https://www.cs.manchester.ac.uk/).
-
 
