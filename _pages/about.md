@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ------
-I am a researcher in robot learning and (from Sep 20230) an Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. Our efforts will be towards building intelligent robots with __generalised laboratory skills__, __better failure recovery mechanism__ and __improved safety__.
+I am a researcher in robot learning and (from Sep 2023) an Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
 
-Until September 2023, I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool with [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) as a senior Postdoctoral Research Associate, on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
+Until then I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool with [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) as a senior Postdoctoral Research Associate, on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
 Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked with [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
@@ -44,7 +44,7 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
-(04/2023) I visited [KIT](https://h2t.anthropomatik.kit.edu/), [ICS-TUM](https://www.ce.cit.tum.de/ics/home/), [MIRMI-TUM](https://www.mirmi.tum.de/en/mirmi/news/article/dr-gabriella-pizzuto-university-of-liverpool-talks-on-creating-intelligent-robot-chemistry-assistants-at-tum-mirmi/) and [TUD](https://www.ccps.tu-darmstadt.de/events_ccps/ccps_seminar/ccps_seminars_2023/07_gabriella_pizzuto.en.jsp) as a [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/).
+(04/2023) I visited [KIT](https://h2t.anthropomatik.kit.edu/), [TUM-ICS](https://www.ce.cit.tum.de/ics/home/), [TUM-MIRMI](https://www.mirmi.tum.de/en/mirmi/news/article/dr-gabriella-pizzuto-university-of-liverpool-talks-on-creating-intelligent-robot-chemistry-assistants-at-tum-mirmi/) and [TUD](https://www.ccps.tu-darmstadt.de/events_ccps/ccps_seminar/ccps_seminars_2023/07_gabriella_pizzuto.en.jsp) as a [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/).
 
 (02/2023) I gave a talk on [The Role of Intelligent Robotic Systems in Laboratory Environments](https://www.ieee-ukandireland.org/watch-again-ieee-wie-uki-ambassadors-scheme-early-career-talk-8/) at the IEEE WIE UKI Ambassadors’ Scheme Early Career Talk Webinar.
 
