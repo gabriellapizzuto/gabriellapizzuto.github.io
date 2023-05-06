@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 ------
-I am a researcher in robot learning and an incoming Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. I have an [opening](https://www.findaphd.com/phds/project/robot-learning-for-laboratory-environments/?p155430) for a PhD student to join my new group.
+I am a researcher in robot learning and (from Sep 20230) an Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. Our efforts will be towards building intelligent robots with __generalised laboratory skills__, __better failure recovery mechanism__ and __improved safety__.
 
-Until September 2023, I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool as a senior Postdoctoral Research Associate, headed by [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
+Until September 2023, I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool with [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) as a senior Postdoctoral Research Associate, on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
 
-Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked under the supervision of [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
+Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked with [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
 
 ![](/images/ecr.jpg){:height="170px" width="300px"} ![](/images/ipab.png){:height="170px" width="300px"}   
 
@@ -24,8 +24,6 @@ During my Ph.D., I have also carried out research secondments at the University 
 
 * PhD Studentship on [Robot Learning for Laboratory Environments](https://www.findaphd.com/phds/project/robot-learning-for-laboratory-environments/?p155430) funded by the prestigious Leverhulme Research Centre for Functional Materials Design - __Deadline: 31st May; however, we will close the application early if we find a suitable candidate__.
 
-* Summer Research Students on [Creating the Next-Generation of Laboratory Robot Companions](https://www.liverpool.ac.uk/global-opportunities/inbound/summer-research-programme/projects/) - __Deadline: 15th March__.
-
 * Summer Internships (TBA soon) supported by the Leverhulme Research Centre for Functional Materials Design.
 
 __For these positions, please email me a concise motivation letter, research statement, and a CV with the email subject being "Prospective PhD/Internship Student". I am always open to support students with their own funding; however, please mention this in your email.__
@@ -35,6 +33,7 @@ __For these positions, please email me a concise motivation letter, research sta
 My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and safe human-robot collaboration. I am broadly interested in the following topics: 
 
 * contact-based robot skill learning
+* failure recovery methods in laboratory environments
 * safe human-robot collaboration 
 * machine vision for laboratory environments
 * statistical learning for dynamical and control systems
@@ -44,6 +43,8 @@ My research interests lie within the intersection of **robot learning** and **co
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
+
+(04/2023) I visited [KIT](https://h2t.anthropomatik.kit.edu/), [ICS-TUM](https://www.ce.cit.tum.de/ics/home/), [MIRMI-TUM](https://www.mirmi.tum.de/en/mirmi/news/article/dr-gabriella-pizzuto-university-of-liverpool-talks-on-creating-intelligent-robot-chemistry-assistants-at-tum-mirmi/) and [TUD](https://www.ccps.tu-darmstadt.de/events_ccps/ccps_seminar/ccps_seminars_2023/07_gabriella_pizzuto.en.jsp) as a [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/).
 
 (02/2023) I gave a talk on [The Role of Intelligent Robotic Systems in Laboratory Environments](https://www.ieee-ukandireland.org/watch-again-ieee-wie-uki-ambassadors-scheme-early-career-talk-8/) at the IEEE WIE UKI Ambassadors’ Scheme Early Career Talk Webinar.
 

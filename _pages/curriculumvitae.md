@@ -20,6 +20,8 @@ author_profile: true
 
 # Awards
 
+- [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/) for the Postdoc-NeT-AI in Cyber Physical Systems.
+
 - ICRA Outstanding Automation paper finalist, Philadelphia, 2022.
 
 - **Grant** awarded to attend the 3rd Summer School on Integrating Vision and Language: Vision and Language Integration in Cognitive Robotics, Athens, Greece, 2017.
