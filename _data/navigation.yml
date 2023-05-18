@@ -1,5 +1,9 @@
 # main links links
 main: 
+
+  - title: "About Me"
+    url: /curriculumvitae/  
+
   - title: "Funded Projects"
     url: /projects/
 
@@ -8,9 +12,6 @@ main:
     
   - title: "Teaching & Supervision"
     url: /teachingsupervision/
-
-  - title: "CV"
-    url: /curriculumvitae/  
     
   - title: "Blog Posts"
     url: /blogposts/  

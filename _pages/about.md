@@ -1,36 +1,16 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: "Gabriella Pizzuto"
+excerpt: " "
 author_profile: true
 ---
 
 ------
-I am a researcher in robot learning and (from Sep 2023) an Assistant Professor in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
-
-Until then I will be working within the Autonomous Chemistry Laboratory at the University of Liverpool with [Prof. Andy Cooper](https://www.liverpool.ac.uk/chemistry/staff/andrew-cooper/) as a senior Postdoctoral Research Associate, on the [ERC Synergy Grant ADAM](https://cordis.europa.eu/project/id/856405). I have been truly enjoying developing and deploying novel robot learning methods on our robotic platforms (primarily on the Franka Emika Panda, collaborating on projects using the KUKA KMR and YuMi) for advancing the excellent research being carried out in-house in the field of materials discovery. 
-
-Previously, I worked within the [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and the [Edinburgh Centre for Robotics](https://www.edinburgh-robotics.org/) as a Postdoctoral Research Associate in the [UKRI RAI Hub NCNR](https://www.ncnr.org.uk/). During my time at Edinburgh, I worked with [Prof. Michael Mistry](https://homepages.inf.ed.ac.uk/mmistry/) on physics-guided neural networks for learning dynamics models, specifically in the field of robotic manipulation.  
-
-![](/images/ecr.jpg){:height="170px" width="300px"} ![](/images/ipab.png){:height="170px" width="300px"}   
-
-Prior to this, I was a Marie-Sklodowska Curie early stage researcher within the [Cognitive Robotics Lab](https://corolab.github.io/), supervised by [Prof. Angelo Cangelosi](https://www.research.manchester.ac.uk/portal/angelo.cangelosi.html) and obtained my Ph.D. in Computer Science from the [University of Manchester](https://www.manchester.ac.uk/). My work focused on improving the iCub's language acquisition through perception.  
-
-![](/images/uom.jpeg){:height="170px" width="300px"}   
-
-During my Ph.D., I have also carried out research secondments at the University of Edinburgh [Institute of Perception, Action and Behaviour](http://web.inf.ed.ac.uk/ipab) and at the [Humanoid Sensing and Perception Research Lab](https://www.iit.it/research/lines/humanoid-sensing-and-perception) within the iCub facility at IIT.
-
-# Job Openings
-
-* PhD Studentship on [Robot Learning for Laboratory Environments](https://www.findaphd.com/phds/project/robot-learning-for-laboratory-environments/?p155430) funded by the prestigious Leverhulme Research Centre for Functional Materials Design - __Deadline: 31st May; however, we will close the application early if we find a suitable candidate__.
-
-* Summer Internships (TBA soon) supported by the Leverhulme Research Centre for Functional Materials Design.
-
-__For these positions, please email me a concise motivation letter, research statement, and a CV with the email subject being "Prospective PhD/Internship Student". I am always open to support students with their own funding; however, please mention this in your email.__
+I am a researcher in robot learning and (from Sep 2023) Lecturer in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
 
 # Research Interests
 
-My research interests lie within the intersection of **robot learning** and **control**, focusing on generalisation and safe human-robot collaboration. I am broadly interested in the following topics: 
+My research interests lie within the intersection of **robotics** and **machine learning**, with a particular focus on intelligent robotic manipulation for laboratory environments. I am broadly interested in the following topics: 
 
 * contact-based robot skill learning
 * failure recovery methods in laboratory environments
@@ -38,7 +18,6 @@ My research interests lie within the intersection of **robot learning** and **co
 * machine vision for laboratory environments
 * statistical learning for dynamical and control systems
 * physics-constrained learning
-* bridging model-based and learning-based dynamical and control systems
 
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
