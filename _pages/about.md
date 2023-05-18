@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "Gabriella Pizzuto"
-excerpt: " "
+title: ""
+excerpt: ""
 author_profile: true
 ---
 
-------
 I am a researcher in robot learning and (from Sep 2023) Lecturer in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
 
 # Research Interests
