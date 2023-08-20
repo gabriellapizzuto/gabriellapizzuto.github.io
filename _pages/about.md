@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-I am a researcher in robot learning and (from Sep 2023) Lecturer in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
+I am a researcher in robot learning and Lecturer in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
 
 # Research Interests
 
@@ -21,6 +21,14 @@ My research interests lie within the intersection of **robotics** and **machine 
 Moreover, I am passionate about deploying algorithms to control the dynamic behaviour of robots with the goal of moving closer to robots that can adapt in real-world environments.
 
 # Most Recent News
+
+(08/2023) Aaron will be presenting [our paper on multimodal sensing for laboratory task](https://arxiv.org/pdf/2307.00671.pdf) at [IEEE CASE](https://case2023.org/).
+
+(07/2023) I gave an invited talk at KCL's ML/RL Group within the Department of Informatics on __Creating the Next Generation of Intelligent Robotic Assistants__.
+
+(06/2023) Our paper [Autonomous biomimetic solid dispensing using a dual-arm robotic manipulator](https://pubs.rsc.org/en/content/articlehtml/2023/dd/d3dd00075c) has been accepted in Digital Discovery. Congrats Ying!
+
+(05/2023) We visited Rossmore primary school for an outreach activity with years 5 and 6 about Robotics and Chemistry.
 
 (04/2023) I visited [KIT](https://h2t.anthropomatik.kit.edu/), [TUM-ICS](https://www.ce.cit.tum.de/ics/home/), [TUM-MIRMI](https://www.mirmi.tum.de/en/mirmi/news/article/dr-gabriella-pizzuto-university-of-liverpool-talks-on-creating-intelligent-robot-chemistry-assistants-at-tum-mirmi/) and [TUD](https://www.ccps.tu-darmstadt.de/events_ccps/ccps_seminar/ccps_seminars_2023/07_gabriella_pizzuto.en.jsp) as a [DAAD AINet Fellow](https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/).
 
