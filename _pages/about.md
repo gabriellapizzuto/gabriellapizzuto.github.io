@@ -22,7 +22,7 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
-(08/2023) Aaron will be presenting [our paper on multimodal sensing for laboratory task](https://arxiv.org/pdf/2307.00671.pdf) at [IEEE CASE](https://case2023.org/).
+(08/2023) Aaron will be presenting [our paper on multimodal sensing for laboratory tasks](https://arxiv.org/pdf/2307.00671.pdf) at [IEEE CASE](https://case2023.org/).
 
 (07/2023) I gave an invited talk at KCL's ML/RL Group within the Department of Informatics on __Creating the Next Generation of Intelligent Robotic Assistants__.
 
