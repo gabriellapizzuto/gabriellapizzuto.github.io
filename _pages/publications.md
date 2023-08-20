@@ -11,9 +11,9 @@ author_profile: true
 
 2023
 ---
-![](/images/case2023.png){:height="350px" width="150px"} <font size="0.5"> A. Butterworth, G. Pizzuto, L. Pecyna, A. I. Cooper, S. Luo, Leveraging Multi-modal Sensing for Robotic Insertion Tasks in R&D Laboratories, IEEE CASE. </font> 
+![](/images/case2023.png){:height="250px" width="75px"} <font size="0.5"> A. Butterworth, G. Pizzuto, L. Pecyna, A. I. Cooper, S. Luo, Leveraging Multi-modal Sensing for Robotic Insertion Tasks in R&D Laboratories, IEEE CASE. </font> 
 
-![](/images/dd2023a.png){:height="350px" width="150px"} <font size="0.5"> Y. Jiang, H. Fakhruldeen, G. Pizzuto, L. Longley, A. He, T. Dai, R. Clowes, N. Rankin and A. I. Cooper, Autonomous biomimetic solid dispensing using a dual-arm robotic manipulator, Digital Discovery. </font> 
+![](/images/dd2023a.png){:height="250px" width="75px"} <font size="0.5"> Y. Jiang, H. Fakhruldeen, G. Pizzuto, L. Longley, A. He, T. Dai, R. Clowes, N. Rankin and A. I. Cooper, Autonomous biomimetic solid dispensing using a dual-arm robotic manipulator, Digital Discovery. </font> 
 
 
 2022
