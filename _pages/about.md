@@ -5,7 +5,7 @@ excerpt: ""
 author_profile: true
 ---
 
-I am a researcher in robot learning and Lecturer in Robotics and Chemistry Automation at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
+I am a researcher in robot learning, Lecturer in Robotics and Chemistry Automation and Royal Academy of Engineering Research Fellow at the University of Liverpool. With my group, I am very excited to develop methods towards creating the next generation of robotic scientists for accelerating material discovery. 
 
 # Research Interests
 
@@ -22,7 +22,11 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Most Recent News
 
+(08/2023) I have been awarded the prestigious [Royal Academy of Engineering Research Fellowship](https://raeng.org.uk/news/academy-announces-latest-research-fellowship-awardees)!
+
 (08/2023) Aaron will be presenting [our paper on multimodal sensing for laboratory tasks](https://arxiv.org/pdf/2307.00671.pdf) at [IEEE CASE](https://case2023.org/).
+
+(08/2023) I have started my new position as a Lecturer (Asssistant Professor) in Robotics and Chemistry Automation at the University of Liverpool!
 
 (07/2023) I gave an invited talk at KCL's ML/RL Group within the Department of Informatics on __Creating the Next Generation of Intelligent Robotic Assistants__.
 
