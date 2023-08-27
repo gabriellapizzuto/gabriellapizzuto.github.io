@@ -15,7 +15,7 @@ An overview of current and past research projects, funded by European and UKRI g
 
 ![](/images/raeng.png){:height="100px" width="200px"}  
 Project: __Upskilling robotic scientists for long-term laboratory workflows__  
-Website: [https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/awardees](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/awardees)  
+Website: [https://raeng.org.uk/](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/awardees)  
 Funded Period: 2023 - 2028   
 Funding Body: Royal Academy of Engineering   
 Role: _PI_   
