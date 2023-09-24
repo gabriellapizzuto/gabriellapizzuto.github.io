@@ -13,7 +13,7 @@ I have a fully funded PhD studentship (for home/EU settled students due to the n
 
 ## Postdocs
 
-Currently, I do not have funding for postdoc positions. However, feel free to contact me if you are still interested in joining my lab and I would be happy to support you in obtaining external funding through the following schemes: [Marie Sklodowska Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), Royal Academy of Engineering Fellowships, and othe similar schemes [here](https://www.liverpool.ac.uk/researcher/fellowships/opportunities/). Please include a CV and a research statement describing you previous work and future plans.
+Currently, I do not have funding for postdoc positions. However, feel free to contact me if you are still interested in joining my lab and I would be happy to support you in obtaining external funding through the following schemes: [Marie Sklodowska Curie Postdoctoral Fellowships](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships), Royal Academy of Engineering Fellowships e.g. [RAEng IC Postdoctoral Fellowships](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/uk-ic-postdoctoral-research-fellowships), and other similar schemes [here](https://www.liverpool.ac.uk/researcher/fellowships/opportunities/). Please include a CV and a research statement describing you previous work and future plans.
 
 ## Undergraduate Students
 
