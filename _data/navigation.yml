@@ -10,8 +10,14 @@ main:
   - title: "Selected Publications"
     url: /publications/
     
-  - title: "Teaching & Supervision"
-    url: /teachingsupervision/
+  - title: "My Group"
+    url: /supervision/
+    
+  - title: "Openings"
+    url: /openings/ 
+    
+  - title: "News"
+    url: /news/   
     
   - title: "Blog Posts"
     url: /blogposts/  
