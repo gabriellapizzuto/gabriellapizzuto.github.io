@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Openings"
+title: "Open Positions"
 permalink: /openings/
 author_profile: true
 ---
-# Open Positions
 
 Thank you for showing interest in working with me! :) I am always open to having researchers, who are excited about deploying robots in real-world Chemistry laboratories, join my group as PhD students, postdoctoral researchers, visitors or summer interns.
 

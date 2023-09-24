@@ -4,7 +4,6 @@ title: "My Group"
 permalink: /supervision/
 author_profile: true
 ---
-
 I am very fortunate to work with the following remarkable students.
 
 # PhD Students

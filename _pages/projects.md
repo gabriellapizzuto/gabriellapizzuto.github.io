@@ -8,7 +8,6 @@ author_profile: true
 An overview of current and past research projects, funded by European and UKRI grants.  
 
 ------
-------
 
 # Ongoing  
 ## **Royal Academy of Engineering Research Fellowship**
@@ -32,8 +31,6 @@ Role: _Collaborator_
 Research Topic: __Autononous (Mobile) Manipulation for Chemistry Laboratories__      
 
 ------
-------
-
 
 # Completed  
 
