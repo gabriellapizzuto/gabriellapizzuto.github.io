@@ -28,6 +28,8 @@ I have multiple PhD studentships available for October 2024. Further details on 
 
 (02/2024) Imperial and Liverpool will lead UK's flagship £12m AI for Chemistry Hub [AIChemy](https://www.ukri.org/news/100m-boost-in-ai-research-will-propel-transformative-innovations/) - led by Andy and Kim. Thrilled to be part of this exciting research hub.
 
+(02/2024) We are organising the first workshop on Accelerating Discovery in Natural Science Laboratories with AI and Robotics at IEEE ICRA 2024! [https://sites.google.com/view/icra24-accelerating-discovery](CFP) is out!
+
 (01/2024) Our paper [Modular, multi-robot integration of laboratories: an autonomous workflow for solid-state chemistry](https://pubs.rsc.org/en/content/articlehtml/2024/sc/d3sc06206f) has been published in Chemical Science. Congrats Amy!
 
 (10/2023) Anna Kisil and Nikola Radulov have joined my group as PhD students. Looking forward to their contributions in the field of intelligent robotic scientists!
