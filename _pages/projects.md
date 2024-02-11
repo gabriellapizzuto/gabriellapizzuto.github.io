@@ -9,7 +9,17 @@ An overview of current and past research projects, funded by European and UKRI g
 
 ------
 
-# Ongoing  
+# Ongoing 
+## **EPSRC AI Hub**
+
+![](/images/aichemy.jpeg){:height="100px" width="200px"}  
+Project: __AI For Chemistry (AIChemy)__  
+Website: [Award Announcement](https://www.ukri.org/news/100m-boost-in-ai-research-will-propel-transformative-innovations/)  
+Funded Period: 2024 - 2029   
+Funding Body: UKRI   
+Role: _Co-I_   
+Research Topic: __AI/Robotics for Chemistry__       
+
 ## **Royal Academy of Engineering Research Fellowship**
 
 ![](/images/raeng.png){:height="100px" width="200px"}  

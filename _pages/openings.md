@@ -9,7 +9,7 @@ Thank you for showing interest in working with me! :) I am always open to having
 
 ## PhD Openings
 
-I have a fully funded PhD studentship (for home/EU settled students due to the nature of the funding) aligned with my Royal Academy of Engineering Research Fellowship on "Upskilling robotic scientists for long-term laboratory workflows", starting in 2024. If you are interested in any of the following topics: (1) Learning generalizable laboratory skills, (2) Introspective robot learning for laboratory tasks and/or (3) Dual-arm laboratory skill learning, I would be happy to consider your application. Please send an email with the subject [Prospective PhD Student], including a short CV, cover letter including your motivation for applying and your experience with robotics, machine learning, programming (C++, Python) and specifically why you are interested in working with me and my group.
+I have a fully funded PhD studentship (for home/EU settled students due to the nature of the funding) aligned with my Royal Academy of Engineering Research Fellowship on "Upskilling robotic scientists for long-term laboratory workflows", starting in 2024. If you are interested in any of the following topics: (1) Learning generalizable laboratory skills, (2) Introspective robot learning for laboratory tasks and/or (3) Dual-arm laboratory skill learning, (4) Safer robot chemists in real lab environments, I would be happy to consider your application. Please send an email with the subject [Prospective PhD Student], including a short CV, cover letter including your motivation for applying and your experience with robotics, machine learning, programming (C++, Python) and specifically why you are interested in working with me and my group.
 
 ## Postdocs
 
