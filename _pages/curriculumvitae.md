@@ -19,15 +19,11 @@ During my Ph.D., I have also carried out research secondments at the University 
 
 ---
 
-# Education
-
-- **Ph.D. in Computer Science**, University of Manchester, UK, 2020.
-- **M. Sc. in Computational Neuroscience and Cognitive Robotics (Distinction)**, University of Birmingham, UK, 2016.
-- **B. Eng. (hons.) in Electrical and Electronic Engineering**, University of Malta, Malta, 2015.
-
----
-
 # Awards
+
+- [Google Deepmind Research Ready Grant](https://raeng.org.uk/google-deepmind-research-ready) grant for our programme 'Upskilling Students in AI and Robotics for Materials Discovery'.
+
+- CASE Best Healthcare Automation Paper Award finalist, Bari, 2024.
 
 - [Royal Academy of Engineering Research Fellow](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships/awardees) for my research vision on "Upskilling robotic scientists for long-term laboratory workflows".
 
@@ -47,6 +43,13 @@ During my Ph.D., I have also carried out research secondments at the University 
 
 ---
 
+# Education
+
+- **Ph.D. in Computer Science**, University of Manchester, UK, 2020.
+- **M. Sc. in Computational Neuroscience and Cognitive Robotics (Distinction)**, University of Birmingham, UK, 2016.
+- **B. Eng. (hons.) in Electrical and Electronic Engineering**, University of Malta, Malta, 2015.
+
+---
 
 
 
