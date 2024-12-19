@@ -32,7 +32,7 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/nikola-radulov.jpeg" alt="Nikola Radulov"> 
   <div class="team-member-info">
     <h4>Nikola Radulov</h4>
-    <p><em>Since October 2023</em><br>Research Areas: Robot Learning, Robot Manipulation, Sim-to-real, Reinforcement Learning</em><br>Co-supervised with Andy Cooper
+    <p><em>Since October 2023</em><br>Research Areas: Robot Learning, Robot Manipulation, Sim-to-real, Reinforcement Learning<br>Co-supervised with Andy Cooper
     </p> 
   </div>
 </div>
@@ -76,13 +76,13 @@ I am very fortunate to work with the following remarkable students.
 
 - **Daniel Hatcher**, _Creating Your Simulated Laboratory Robot Companion_, Summer Research Programme, 2023.
 
-- **Hetong Wang**, _Robot Skill Learning for Chemistry Labs_, Leverhulme Research Centre Summer Research Internship, 2022 (Co-advised with Prof. Andy Cooper).
+- **Hetong Wang**, _Robot Skill Learning for Chemistry Labs_, Leverhulme Research Centre Summer Research Internship, 2022 (Co-advised with Andy Cooper).
 
-- **Yixin Cai**, _Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory_, Leverhulme Research Centre Summer Research Internship, 2021 (Co-advised with Prof. Andy Cooper).
+- **Yixin Cai**, _Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory_, Leverhulme Research Centre Summer Research Internship, 2021 (Co-advised with Andy Cooper).
 
-- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf at the University of Edinburgh, 2020-2022 (Co-advised with Prof. Michael Mistry).
+- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf at the University of Edinburgh, 2020-2022 (Co-advised with Michael Mistry).
 
-- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc at the University of Edinburgh, 2019-2020 (Co-advised with Prof. Michael Mistry).
+- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc at the University of Edinburgh, 2019-2020 (Co-advised with Michael Mistry).
 
 
 ---
