@@ -41,7 +41,7 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/anna-kisil.jpg" alt="Anna Kisil"> 
   <div class="team-member-info">
     <h4>Anna Kisil</h4>
-    <p><em>Since October 2023</em><br>Research Areas: Human-Robot Interaction, Safe Robot Manipulation, Reinforcement Learning with Human Feedback</em><br>Co-supervised with Bei Peng
+    <p><em>Since October 2023</em><br>Research Areas: Human-Robot Interaction, Safe Robot Manipulation, Reinforcement Learning with Human Feedback<br>Co-supervised with Bei Peng
     </p> 
   </div>
 </div>
@@ -50,7 +50,7 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/cenk-cetin.jpeg" alt="Cenk Cetin"> 
   <div class="team-member-info">
     <h4>Cenk Cetin</h4>
-    <p><em>Since October 2024</em><br>Research Areas: Robot Skill Learning, Contact-rich Robot Manipulation</em><br>Co-supervised with Anthony Bradley
+    <p><em>Since October 2024</em><br>Research Areas: Robot Skill Learning, Contact-rich Robot Manipulation<br>Co-supervised with Anthony Bradley
     </p> 
   </div>
 </div>
@@ -59,7 +59,7 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/laura-jones.jpeg" alt="Laura Jones"> 
   <div class="team-member-info">
     <h4>Laura Jones</h4>
-    <p><em>Since October 2024</em><br>Research Areas: Safe Robot Manipulation</em><br>Co-supervised with Andy Cooper
+    <p><em>Since October 2024</em><br>Research Areas: Safe Robot Manipulation<br>Co-supervised with Andy Cooper
     </p> 
   </div>
 </div>
@@ -83,6 +83,8 @@ I am very fortunate to work with the following remarkable students.
 - **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf at the University of Edinburgh, 2020-2022 (Co-advised with Prof. Michael Mistry).
 
 - **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc at the University of Edinburgh, 2019-2020 (Co-advised with Prof. Michael Mistry).
+
+
 ---
 
 _I am always looking to work with and help underrepresented groups in STEM fields, particularly in the field of robotics (robot learning, manipulation, robot vision) for real-world applications, primarily in Chemistry/material discovery laboratories; please email me directly if you would like to work on projects in our Autonomous Robotic Chemistry Lab or you are trying to find a project related to the ones I have previously supervised._
