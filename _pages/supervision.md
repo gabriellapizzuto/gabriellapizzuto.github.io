@@ -4,33 +4,56 @@ title: "My Group"
 permalink: /supervision/
 author_profile: true
 ---
+
+<style>
+  .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+
+  .team-member-info h4 {
+    margin: 0 0 5px 0;
+  }
+</style>
+
 I am very fortunate to work with the following remarkable students.
 
-# PhD Students
+## Current Members
 
-- **Nikola Radulov**, _Robot Learning for Laboratory Environments_, from October 2023.
+<div class="team-member">
+  <img src="/images/nikola-radulov.jpg" alt="Nikola Radulov"> 
+  <div class="team-member-info">
+    <h4>Nikola Radulov</h4>
+    <p><em>Robot Learning for Laboratory Environments</em><br>PhD Student (since October 2023)</p> 
+  </div>
+</div>
 
-- **Anna Kisil**, _Improving Situational Awareness for Safer Robotic Chemists_, from October 2023.
+<div class="team-member">
+  <img src="/images/anna-kisil.jpg" alt="Anna Kisil"> 
+  <div class="team-member-info">
+    <h4>Anna Kisil</h4>
+    <p><em>Improving Situational Awareness for Safer Robotic Chemists</em><br>PhD Student (since October 2023)</p> 
+  </div>
+</div>
 
-# Alumni
+## Alumni
 
-- **Jeeyeoun Chae**, _Benchmarking Model-Free Deep Reinforcement Learning Algorithms for Laboratory Tasks_, Summer Research Programme, 2023.
-
-- **Marcus Hom**, _Creating Your Simulated Laboratory Robot Companion_, Summer Research Programme, 2023.
-
-- **Daniel Hatcher**, _Creating Your Simulated Laboratory Robot Companion_, Summer Research Programme, 2023.
-
-- **Hetong Wang**, _Robot Skill Learning for Chemistry Labs_, Leverhulme Research Centre Summer Research Internship, 2022 (Co-advised with Prof. Andy Cooper).
-
-- **Yixin Cai**, _Vision-guided Robotic Manipulation for Error Correction in a Materials Discovery Laboratory_, Leverhulme Research Centre Summer Research Internship, 2021 (Co-advised with Prof. Andy Cooper).
-
-- **David Jorge**, _Online Inverse Dynamics Learning Using Sparse Gaussian Processes_, MInf at the University of Edinburgh, 2020-2022 (Co-advised with Prof. Michael Mistry).
-
-- **Guangyu Yang**, _Inverse Dynamics Model Learning Using Neural Networks_, MSc at the University of Edinburgh, 2019-2020 (Co-advised with Prof. Michael Mistry).
+<div class="team-member">
+  <img src="/images/jeeyeoun-chae.jpg" alt="Jeeyeoun Chae"> 
+  <div class="team-member-info">
+    <h4>Jeeyeoun Chae</h4>
+    <p><em>Benchmarking Model-Free Deep Reinforcement Learning Algorithms for Laboratory Tasks</em><br>Summer Research Programme, 2023</p> 
+  </div>
+</div>
 
 ---
 
 _I am always looking to work with and help underrepresented groups in STEM fields, particularly in the field of robotics (robot learning, manipulation, robot vision) for real-world applications, primarily in Chemistry/material discovery laboratories; please email me directly if you would like to work on projects in our Autonomous Robotic Chemistry Lab or you are trying to find a project related to the ones I have previously supervised._
-
-
-
