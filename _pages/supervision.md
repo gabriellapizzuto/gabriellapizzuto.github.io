@@ -26,13 +26,14 @@ author_profile: true
 
 I am very fortunate to work with the following remarkable students.
 
-## Current Members
+## PhD Students
 
 <div class="team-member">
   <img src="/images/nikola-radulov.jpg" alt="Nikola Radulov"> 
   <div class="team-member-info">
     <h4>Nikola Radulov</h4>
-    <p><em>Robot Learning for Laboratory Environments</em><br>PhD Student (since October 2023)</p> 
+    <p><em>Since October 2023</em><br>Research Areas: Robot Learning, Robot Manipulation, Sim-to-real, Reinforcement Learning
+    </p> 
   </div>
 </div>
 
@@ -40,7 +41,8 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/anna-kisil.jpg" alt="Anna Kisil"> 
   <div class="team-member-info">
     <h4>Anna Kisil</h4>
-    <p><em>Improving Situational Awareness for Safer Robotic Chemists</em><br>PhD Student (since October 2023)</p> 
+    <p><em>Improving Situational Awareness for Safer Robotic Chemists</em><br>PhD Student (since October 2023)
+    </p> 
   </div>
 </div>
 
