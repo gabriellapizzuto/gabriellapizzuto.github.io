@@ -26,7 +26,7 @@ I will be hiring a PDRA and a PhD student on a new project focusing on improving
 
 (08/2025) We have organised the second edition of our workshop [ADNSL](https://sites.google.com/view/robotic-accelerated-discovery/home?authuser=0) at Accelerate Conference 2025.
 
-(03/2025) We have been awarded the EPSRC AIchemy Pump Priming grant for our project __'Transforming Chemistry Labs with Safe and Intuitive Human-in-the-Loop Robotic Systems'__, with University of Nottingham and Dr. Luis Figueredo (PI). Stay tuned for the research outputs from this project!
+(03/2025) We have been awarded the EPSRC AIchemy Pump Priming grant for our project [Transforming Chemistry Labs with Safe and Intuitive Human-in-the-Loop Robotic Systems](https://aichemy.ac.uk/explore-our-funded-projects/), with University of Nottingham and Dr. Luis Figueredo (PI). Stay tuned for the research outputs from this project!
 
 (03/2025) I gave an invited talk at the [AIchemy Annual Conference 2025](https://aichemy.ac.uk/aichemy-annual-conference-2025-key-takeaways/).
 
