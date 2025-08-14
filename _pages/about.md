@@ -20,9 +20,17 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Openings
 
-I have a CDT PhD studentship available for October 2025. Further details on the position (and others) and how to apply is available in the Openings page.
+I will be hiring a PDRA and a PhD student on a new project focusing on improving robotic manipulation for heterogeneous materials in chemistry labs. Further details on the position will follow - please email me your CV and short motivation letter if you are interested in joining my group on these exciting new positions (start date in 2026).
 
 # Most Recent News
+
+(08/2025) We have organised the second edition of our workshop [ADNSL](https://sites.google.com/view/robotic-accelerated-discovery/home?authuser=0) at Accelerate Conference 2025.
+
+(03/2025) We have been awarded the EPSRC AIchemy Pump Priming grant for our project __'Transforming Chemistry Labs with Safe and Intuitive Human-in-the-Loop Robotic Systems'__, with University of Nottingham and Dr. Luis Figueredo (PI). Stay tuned for the research outputs from this project!
+
+(03/2025) I gave an invited talk at the [AIchemy Annual Conference 2025](https://aichemy.ac.uk/aichemy-annual-conference-2025-key-takeaways/).
+
+(01/2025) Our paper [Multimodal Behaviour Trees for Robotic Laboratory Task Automation](https://arxiv.org/html/2506.20399v1) has been accepted at IEEE ICRA 2025! Congratulations to all the team!
 
 (12/2024) We have been awarded the [Google Deepmind Research Ready](https://raeng.org.uk/google-deepmind-research-ready) grant for our programme 'Upskilling Students in AI and Robotics for Materials Discovery'. If you are a UK-based student in your penultimate year (and satisfy at least one of the `widening participation criteria'), and would like to join us in Liverpool in Summer 2025, contact me! :)
 
