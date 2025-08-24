@@ -10,6 +10,15 @@ An overview of current and past research projects, funded by European and UKRI g
 ------
 
 # Ongoing 
+## **EPSRC New Investigator Award**
+
+Project: __Accelerating Laboratory Automation Through Learning Tool Morphology For Robotic Chemists__  
+Website: TBC
+Funded Period: 2025 - 2028   
+Funding Body: UKRI   
+Role: _PI_   
+Research Topic: __Physical AI/Robotics for Chemistry__       
+
 ## **EPSRC AI Hub**
 
 ![](/images/aichemy.jpeg){:height="100px" width="200px"}  
