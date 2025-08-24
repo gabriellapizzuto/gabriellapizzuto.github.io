@@ -24,7 +24,7 @@ author_profile: true
   }
 </style>
 
-I am very fortunate to work with the following remarkable students.
+I am very fortunate to work with the following remarkable students! :) 
 
 ## PhD Students
 
@@ -41,7 +41,7 @@ I am very fortunate to work with the following remarkable students.
   <img src="/images/anna-kisil.jpg" alt="Anna Kisil"> 
   <div class="team-member-info">
     <h4>Anna Kisil</h4>
-    <p><em>Since October 2023</em><br>Research Areas: Human-Robot Interaction, Safe Robot Manipulation, Reinforcement Learning with Human Feedback<br>Co-supervised with Bei Peng
+    <p><em>Since October 2023</em><br>Research Areas: Human-Robot Interaction, Situationally-Aware Robotic Chemists<br>Co-supervised with Bei Peng
     </p> 
   </div>
 </div>

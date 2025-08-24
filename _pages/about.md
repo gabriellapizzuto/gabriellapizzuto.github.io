@@ -24,9 +24,13 @@ I will be hiring a PDRA and a PhD student on a new project focusing on improving
 
 # Most Recent News
 
+(08/2025) I have been awarded the EPSRC New Investigator Award with my project __Accelerating Laboratory Automation Through Learning Tool Morphology For Robotic Chemists__! We will be hiring a PDRA and PhD student to join our group.
+
+(08/2025) Laura and Cenk gave fantastic presentations at [TAROS 2025 - Session 9b: Autonomous Robotic Systems for Laboratory Experiments](https://taros-conference.org/programme/)! Congrats to Cenk on winning Best Project/Presentation during the session!
+
 (08/2025) We have organised the second edition of our workshop [ADNSL](https://sites.google.com/view/robotic-accelerated-discovery/home?authuser=0) at Accelerate Conference 2025.
 
-(03/2025) We have been awarded the EPSRC AIchemy Pump Priming grant for our project [Transforming Chemistry Labs with Safe and Intuitive Human-in-the-Loop Robotic Systems](https://aichemy.ac.uk/explore-our-funded-projects/), with University of Nottingham and Dr. Luis Figueredo (PI). Stay tuned for the research outputs from this project!
+(03/2025) We have been awarded the EPSRC AIchemy Pump Priming grant for our project [Transforming Chemistry Labs with Safe and Intuitive Human-in-the-Loop Robotic Systems](https://aichemy.ac.uk/explore-our-funded-projects/), with University of Nottingham and [Dr. Luis Figueredo](https://www.luisfigueredo.com) (PI). Stay tuned for the research outputs from this project!
 
 (03/2025) I gave an invited talk at the [AIchemy Annual Conference 2025](https://aichemy.ac.uk/aichemy-annual-conference-2025-key-takeaways/).
 
