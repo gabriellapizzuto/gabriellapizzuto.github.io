@@ -20,9 +20,25 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Openings
 
-I will be hiring a PDRA and a PhD student on a new project focusing on improving robotic manipulation for heterogeneous materials in chemistry labs. Further details on the position will follow - please email me your CV and short motivation letter if you are interested in joining my group on these exciting new positions (start date in 2026).
+I will be hiring PDRAs on new projects starting later this year. Further details on these positions will follow - please email me your CV and short motivation letter if you are interested in joining my group (start date September 2026, potentially earlier).
 
 # Most Recent News
+
+(02/2026) Xin has joined my research group as a PDRA on the EPSRC New Investigator Award project. She will be working on co-design of tools for robotic chemists.
+
+(01/26) Our [paper](https://arxiv.org/abs/2506.03896) has been accepted at IEEE ICRA 2026! Congratulations to my student Nikola on his first PhD paper acceptance!
+
+(01/2026) The 3rd edition of our workshop [ADNSL](https://sites.google.com/view/robotic-accelerated-discovery/home?authuser=0) has been accepted for ICRA 2026.
+
+(01/2026) I gave the keynote talk at the [New Starters in AI for Chemistry](https://aichemy.ac.uk/event/new-starters-in-ai-for-chemistry/#:~:text=AI%20and%20ML%20is%20opening,is%20the%20place%20to%20begin.).
+
+(01/2026) I gave an invited talk at the [UK Robot Manipulation Workshop 2026](https://www.robot-manipulation.uk/programme).
+
+(01/2026) Together with Andy Cooper, we have been awarded the [AI Scientist ARIA grant](https://www.aria.org.uk/ai-scientist/funded-projects/).
+
+(01/2026) Ayesha has joined my research group as an industry-funded CDT DAMC student, working on a project with Bristol Myers Squibb!
+
+(12/25) Our [paper](https://www.nature.com/articles/s43588-025-00924-4), in collaboration with the Acceleration Consortium, has been accepted in Nature Comp. Sci. Congratulations to all the team!
 
 (08/2025) I have been awarded the EPSRC New Investigator Award with my project __Accelerating Laboratory Automation Through Learning Tool Morphology For Robotic Chemists__! We will be hiring a PDRA and PhD student to join our group.
 
