@@ -17,7 +17,16 @@ Website: TBC
 Funded Period: 2025 - 2028   
 Funding Body: UKRI   
 Role: _PI_   
-Research Topic: __Physical AI/Robotics for Chemistry__       
+Research Topic: __Physical AI/Robotics for Chemistry__     
+
+## **EPSRC International Centre to Centre Grant**
+
+Project: __International asynchronous AI-led chemical optimisation across chemistry laboratories__  
+Website: TBC    
+Funded Period: 2026 - 2029   
+Funding Body: UKRI   
+Role: _Co-I_   
+Research Topic: __Physical AI/Robotics for Chemistry__   
 
 ## **EPSRC AI Hub**
 

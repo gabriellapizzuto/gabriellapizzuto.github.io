@@ -20,9 +20,11 @@ Moreover, I am passionate about deploying algorithms to control the dynamic beha
 
 # Openings
 
-I will be hiring PDRAs on new projects starting later this year. Further details on these positions will follow - please email me your CV and short motivation letter if you are interested in joining my group (start date September 2026, potentially earlier).
+I will be hiring 2 PDRAs on new projects starting later this year. Further details on these positions will follow - please email me your CV and short motivation letter if you are interested in joining my group (start date June - September 2026). I am also curently hiring for a [PhD student](https://www.findaphd.com/phds/project/from-single-robotic-chemist-action-to-end-to-end-experiment-resilience/?p195830) to start in October 2026, who will be working on a joint project with Prof. Ram Ramamoorthy at the University of Edinburgh.
 
 # Most Recent News
+
+(03/2026) Matthew has joined my research group as a PhD student on the EPSRC New Investigator Award project. He will be working on co-design of tools for robotic chemists.
 
 (02/2026) Xin has joined my research group as a PDRA on the EPSRC New Investigator Award project. She will be working on co-design of tools for robotic chemists.
 

@@ -21,6 +21,8 @@ During my Ph.D., I have also carried out research secondments at the University 
 
 # Awards
 
+- EPSRC New Investigator Award.
+
 - [Google Deepmind Research Ready Grant](https://raeng.org.uk/google-deepmind-research-ready) grant for our programme 'Upskilling Students in AI and Robotics for Materials Discovery'.
 
 - CASE Best Healthcare Automation Paper Award finalist, Bari, 2024.
