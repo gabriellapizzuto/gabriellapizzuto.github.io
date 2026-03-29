@@ -32,7 +32,7 @@ Research Topic: __Physical AI/Robotics for Chemistry__
 
 ![](/images/aichemy.jpeg){:height="100px" width="200px"}  
 Project: __AI For Chemistry (AIChemy)__  
-Website: [Award Announcement](https://www.ukri.org/news/100m-boost-in-ai-research-will-propel-transformative-innovations/)  
+Website: [Award Announcement](https://aichemy.ac.uk)  
 Funded Period: 2024 - 2029   
 Funding Body: UKRI   
 Role: _Co-I_   

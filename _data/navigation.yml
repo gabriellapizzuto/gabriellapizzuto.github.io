@@ -6,9 +6,6 @@ main:
 
   - title: "Funded Projects"
     url: /projects/
-
-  - title: "Selected Publications"
-    url: /publications/
     
   - title: "My Group"
     url: /supervision/
@@ -18,7 +15,5 @@ main:
     
   - title: "News"
     url: /news/   
-    
-  - title: "Blog Posts"
-    url: /blogposts/  
+
 
