@@ -5,7 +5,7 @@ permalink: /supervision/
 author_profile: true
 ---
 
-I am very fortunate to work with a team of remarkable researchers and students! :) For the most up-to-date list of our current team members and ongoing projects, please visit our official [group website](https://aarch-uol.github.io/group-website/)
+I am very fortunate to work with a team of remarkable researchers and students! :) For the most up-to-date list of our current team members and ongoing projects, please visit our official [group website](https://aarch-uol.github.io/group-website/).
 
 ---
 
